@@ -61,9 +61,3 @@ Final Cost = Total Charges - (Total Charges × Rebate%)
 - Name: Muhammad Iqkfan bin Mohd Saha
 - Student ID: 2022654726
 - Course: ICT602 – Mobile Technology
-
----
-
-## 📜 License
-This project is for educational use only.
-© 2025 Muhammad Iqkfan bin Mohd Saha.
