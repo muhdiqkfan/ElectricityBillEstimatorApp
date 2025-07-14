@@ -19,20 +19,17 @@ An Android mobile application to estimate monthly electricity bills based on usa
 
 ## 📷 Screenshots
 
-# App Icon
-<img src="https://github.com/user-attachments/assets/0a153c18-cad2-4356-99f6-8758a127da1d" alt="image" height="400"/>
-
 # Main
-<img src="https://github.com/user-attachments/assets/1b94232b-6f3b-47b2-8e9c-7ccc67fa602c" alt="image" height="400"/>
+<img src="user-attachments/main.png" alt="image" height="400"/>
 
 # History
-<img src="https://github.com/user-attachments/assets/d048b038-6894-4e89-90b8-942c2c1632ab" alt="image" height="400"/>
+<img src="user-attachments/history.png" alt="image" height="400"/>
 
 # Details
-<img src="https://github.com/user-attachments/assets/eeb1d243-6111-4c53-9f3d-ce816114f3f6" alt="image" height="400"/>
+<img src="user-attachments/details.png" alt="image" height="400"/>
 
 # About
-<img src="https://github.com/user-attachments/assets/fa620f4f-c558-4622-8b5d-55f03406fec5" alt="image" height="400"/>
+<img src="user-attachments/about.png" alt="image" height="400"/>
 
 ---
 
@@ -61,13 +58,12 @@ Final Cost = Total Charges - (Total Charges × Rebate%)
 ---
 
 ## 👤 About
-- Name: Nur Izzat Saharudin
-- Student ID: 2022694896
+- Name: Muhammad Iqkfan bin Mohd Saha
+- Student ID: 2022654726
 - Course: ICT602 – Mobile Technology
-- Year: 2025
 
 ---
 
 ## 📜 License
 This project is for educational use only.
-© 2025 Nur Izzat Saharudin. All rights reserved.
+© 2025 Muhammad Iqkfan bin Mohd Saha.
