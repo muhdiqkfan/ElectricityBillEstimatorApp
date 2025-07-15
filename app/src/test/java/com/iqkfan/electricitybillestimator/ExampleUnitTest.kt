@@ -1,4 +1,4 @@
-package com.izzat.electricitybillestimator
+package com.iqkfan.electricitybillestimator
 
 import org.junit.Test
 
